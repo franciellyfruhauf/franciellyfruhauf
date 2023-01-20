@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Francielly Fruhauf
 
-- 🔭 Estou trabalhando com ERP linguagem PROGRESS
+- 🔭 Estou trabalhando com React
 - 🌱 Estudando JavaScript e TypeScript
 - 😄 Pronouns: ela/dela
 - ⚡ Fato curioso: Sou formada em Engenharia Agrícola 
