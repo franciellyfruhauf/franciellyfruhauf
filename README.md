@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Francielly Fruhauf
 
-- 🔭 Estou trabalhando com JS, JAVA 8, HTML e CSS
+- 🔭 Estou trabalhando com JavaScript, JAVA , JQuery, HTML e CSS
 - 🌱 Estudando React
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 - ⚡ Fato curioso: Sou formada em Engenharia Agrícola 
 
 <div align="center" style="text-align: center;">
